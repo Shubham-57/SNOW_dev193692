@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Demo ">7cf234308391121059619f65eeaad374</application>
+        <filter/>
+        <name>Demo s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1317189_snow_d_0.demo_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-14 15:35:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>34f234308391121059619f65eeaad378</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demo s</sys_name>
+        <sys_package display_value="SNOW_dev193692" source="x_1317189_snow_d_0">40cc95808351121059619f65eeaad355</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNOW_dev193692">40cc95808351121059619f65eeaad355</sys_scope>
+        <sys_update_name>sys_ui_module_34f234308391121059619f65eeaad378</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-14 15:35:22</sys_updated_on>
+        <table>x_1317189_snow_d_0_demo</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
